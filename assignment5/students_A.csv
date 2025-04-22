@@ -1,0 +1,6 @@
+ , Reg_no , Name   , Subject1, Subject2, Subject3, Subject4, total, grade
+1, 2022002, Ajeet  ,       75,       75,       90,       81,   321, A
+3, 2022004, Ranjeet,       55,       65,       79,       91,   290, A
+4, 2022005, Santosh,       85,       85,       60,       61,   291, A
+7, 2022009, Shyam  ,       75,       65,       69,       81,   290, A
+8, 2022010, Yash   ,       85,       75,       89,       61,   310, A
